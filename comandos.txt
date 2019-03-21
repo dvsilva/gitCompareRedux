@@ -1,0 +1,19 @@
+// create app
+yarn global add create-react-app
+create-react-app app02
+
+// dev configuration
+yarn add eslint -D
+node_modules/.bin/eslint --init
+
+// run
+yarn start
+
+// add redux and react-redux
+yarn add redux react-redux
+
+// install prop-types
+yarn add prop-types
+
+// install reactotron (https://github.com/infinitered/reactotron/releases)
+yarn add reactotron-react-js reactotron-redux
