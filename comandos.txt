@@ -20,3 +20,13 @@ yarn add reactotron-react-js reactotron-redux
 
 // install routes
 yarn add react-router-dom
+
+// install prop types
+yarn add prop-types
+
+// install axios and redux saga
+yarn add redux-saga axios
+
+// install reactotron saga
+yarn add reactotron-redux-saga
+
