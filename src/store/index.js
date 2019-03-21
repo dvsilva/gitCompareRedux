@@ -30,6 +30,7 @@ const createAppropriateStore =
     ? console.tron.createStore
     : createStore;
 
-const store = createAppropriateStore(reducers, compose(applyMiddleware(...[])));
+//const store = createAppropriateStore(reducers, compose(applyMiddleware(...[])));
+const store = createStore(reducers, compose(applyMiddleware(...[])));
 
 export default store;

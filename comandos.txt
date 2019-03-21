@@ -17,3 +17,6 @@ yarn add prop-types
 
 // install reactotron (https://github.com/infinitered/reactotron/releases)
 yarn add reactotron-react-js reactotron-redux
+
+// install routes
+yarn add react-router-dom
